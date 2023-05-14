@@ -1,5 +1,4 @@
-<h1 align="center">Hello World</b>👋, I'm Olanzo James</h1>
-<h3 align="center">A Software Engineer from St. Vincent 🇻🇨</h3>
+<h1 align="center">Hello World</b>👋, I'm Olanzo</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanzoinc&label=Profile%20views&color=0e75b6&style=flat" alt="lanzoinc" /> </p>
